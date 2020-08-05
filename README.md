@@ -1,4 +1,4 @@
-# Eat Out August Scheme - Web Scraper
+# Eat Out August Scheme - Google Map UI with ExpressJS Web Scraper
 
 ## **Description**
 
