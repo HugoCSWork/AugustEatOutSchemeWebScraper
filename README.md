@@ -15,12 +15,13 @@ Map displaying all discounts for August scheme in my area. Data is scraped from 
 
 - HTML
 - CSS
-- JS
+- JavaScript
 - Google Maps API
 
 #### Backend
 
-- Express API
+- Express
+- JavaScript
 - Puppeteer & cheerio for web scraping
 
 ### Goals -
