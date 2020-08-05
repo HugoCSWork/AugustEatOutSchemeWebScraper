@@ -1,0 +1,13 @@
+{
+  "name": "eat_out_scheme_frontend",
+  "version": "0.0.1",
+  "description": "",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2"
+  },
+  "keywords": [],
+  "author": "Hugo Tomas",
+  "license": "ISC"
+}
