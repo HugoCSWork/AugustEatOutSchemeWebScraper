@@ -20,6 +20,7 @@ Map displaying all discounts for August scheme in my area. Data is scraped from 
 
 #### Backend
 
+- Node
 - Express
 - JavaScript
 - Puppeteer & cheerio for web scraping
